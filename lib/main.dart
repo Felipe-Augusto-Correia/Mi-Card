@@ -107,7 +107,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.teal,
                         ),
                         title: Text(
-                          'linkedin.com/in/felipe-correia-a16233116/',
+                          'linkedin.com/in/felipe-correia-a16233116',
                           style: TextStyle(
                             color: Colors.teal.shade900,
                             fontSize: 15,
